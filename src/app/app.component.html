@@ -28,7 +28,7 @@
         <!-- Product Column -->
         <ng-container matColumnDef="productName">
           <th mat-header-cell *matHeaderCellDef mat-sort-header> Product Name </th>
-          <td mat-cell *matCellDef="let row"> {{row.productName}} </td>
+          <td mat-cell *matCellDef="let row"> <a href="" (click)="referUrl(row)"> {{row.productName}}</a> </td>
         </ng-container>
 
         <!-- Category Column -->
