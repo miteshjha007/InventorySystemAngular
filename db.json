@@ -1,0 +1,31 @@
+{
+  "productList": [
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "date": "2022-11-03T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 50,
+      "comment": "Fresh Fruit",
+      "id": 1
+    },
+    {
+      "productName": "Banana",
+      "category": "Fruits",
+      "date": "2022-11-03T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 40,
+      "comment": "Fresh Fruit",
+      "id": 2
+    },
+    {
+      "productName": "Onion",
+      "category": "Vegitable",
+      "date": "2022-11-02T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 30,
+      "comment": "Fresh Veg",
+      "id": 3
+    }
+  ]
+}
