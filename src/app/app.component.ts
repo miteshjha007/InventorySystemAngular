@@ -80,4 +80,8 @@ export class AppComponent implements OnInit {
       }
     })
   }
+  d: any;
+  referUrl(id: number) {
+    this.d = id;
+  }
 }
